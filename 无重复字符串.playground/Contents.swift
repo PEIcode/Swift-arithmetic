@@ -71,7 +71,7 @@ class Solution2 {
 }
 let b = Solution2()
 b.lengthOfLongestSubstring2("abcabcbb")
-
+b.findKthLargest([1,2,3,4,5], 3)
 let i = 123
 let d = 234
 let j = String(i+d)
