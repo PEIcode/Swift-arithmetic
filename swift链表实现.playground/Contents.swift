@@ -48,3 +48,7 @@ a.appendToHead(3)
 a.appendToTail(4)
 a.tail
 a.head
+Int.max
+
+
+
